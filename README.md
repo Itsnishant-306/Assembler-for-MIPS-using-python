@@ -69,3 +69,5 @@ Invalid instructions
 Optimization Techniques: The code includes optimization techniques to improve efficiency and reduce memory footprint.
 
 Tracking Updates: The number of times a variable is updated or a label is used is also tracked during the assembly process.
+
+![Assembler Output: Symbol table & data table](C:\Users\NISHANT\Pictures\Screenshots\Screenshot 2025-03-08 221635.png)
